@@ -1,0 +1,29 @@
+{
+    "name": "Fuji Token List",
+    "logoURI": "https://i.imgur.com/tt0vG2N.png",
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 1
+    },
+    "keywords": [],
+    "timestamp": "2021-06-11T00:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 43113,
+            "address": "0xbd405AA77E50085706040c66E79c1CE78E7f4861",
+            "decimals": 18,
+            "name": "YetiSwap",
+            "symbol": "YTS",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "decimals": 18,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        }
+    ]
+  }
