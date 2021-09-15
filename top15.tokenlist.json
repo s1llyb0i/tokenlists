@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 4,
+        "major": 5,
         "minor": 3,
         "patch": 0
     },
@@ -126,13 +126,13 @@
             "symbol": "ELK"
         },
 	{
-            "chainId": 43113,
-            "address": "0x695c1d3Be6be6BcE84989701c60f1F180508B5C5",
+            "chainId": 43114,
+            "address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
             "decimals": 18,
             "name": "Canary",
             "symbol": "CNR",
             "logoURI": "https://raw.githubusercontent.com/canarydex/exchange-contracts/master/tokenlist/logos/canary.png"
         }
     ],
-    "timestamp": "2021-09-15T19:20:00+00:00"
+    "timestamp": "2021-09-15T19:30:00+00:00"
 }
