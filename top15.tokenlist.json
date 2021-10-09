@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 5,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -132,7 +132,15 @@
             "name": "Canary",
             "symbol": "CNR",
             "logoURI": "https://raw.githubusercontent.com/canarydex/exchange-contracts/master/tokenlist/logos/canary.png"
+        },
+	{
+            "chainId": 43114,
+            "address": "0x4e840AADD28DA189B9906674B4Afcb77C128d9ea",
+            "decimals": 18,
+            "name": "srnArtGallery Tokenized Arts",
+            "symbol": "SISTA",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x4e840AADD28DA189B9906674B4Afcb77C128d9ea/logo.png"
         }
     ],
-    "timestamp": "2021-09-15T19:30:00+00:00"
+    "timestamp": "2021-10-09T21:06:00+00:00"
 }
