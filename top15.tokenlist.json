@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 5,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tokens": [
@@ -140,7 +140,15 @@
             "name": "srnArtGallery Tokenized Arts",
             "symbol": "SISTA",
             "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x4e840AADD28DA189B9906674B4Afcb77C128d9ea/logo.png"
+        },
+	{
+            "chainId": 43114,
+            "address": "0xF9A075C9647e91410bF6C402bDF166e1540f67F0",
+            "decimals": 18,
+            "name": "Sing Token",
+            "symbol": "SING",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0xF9A075C9647e91410bF6C402bDF166e1540f67F0/logo.png"
         }
     ],
-    "timestamp": "2021-10-09T21:06:00+00:00"
+    "timestamp": "2021-10-14T17:23:00+00:00"
 }
