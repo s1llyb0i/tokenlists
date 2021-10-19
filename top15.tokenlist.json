@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 5,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
     "tokens": [
@@ -148,7 +148,15 @@
             "name": "Sing Token",
             "symbol": "SING",
             "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0xF9A075C9647e91410bF6C402bDF166e1540f67F0/logo.png"
+        },
+	{
+            "chainId": 43114,
+            "address": "0x617724974218a18769020a70162165a539c07e8a",
+            "decimals": 18,
+            "name": "OliveCash Token",
+            "symbol": "OLIVE",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x617724974218A18769020A70162165A539c07E8a/logo.png"
         }
     ],
-    "timestamp": "2021-10-14T17:23:00+00:00"
+    "timestamp": "2021-10-19T22:01:00+00:00"
 }
