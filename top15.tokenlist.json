@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 5,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
     "tokens": [
@@ -156,7 +156,39 @@
             "name": "OliveCash Token",
             "symbol": "OLIVE",
             "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x617724974218A18769020A70162165A539c07E8a/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+            "decimals": 18,
+            "name": "Roco Finance",
+            "symbol": "ROCO",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa",
+            "decimals": 18,
+            "name": "Yay Games",
+            "symbol": "YAY",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+            "decimals": 18,
+            "name": "Penguin Finance",
+            "symbol": "PEFI",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8aE8be25C23833e0A01Aa200403e826F611f9CD2",
+            "decimals": 18,
+            "name": "TaleCraft",
+            "symbol": "CRAFT",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
         }
     ],
-    "timestamp": "2021-10-19T22:01:00+00:00"
+    "timestamp": "2021-12-03T14:01:00+00:00"
 }
