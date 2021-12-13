@@ -10,7 +10,7 @@
     "version": {
         "major": 5,
         "minor": 8,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -192,11 +192,11 @@
         {
             "chainId": 43114,
             "address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
-            "decimals": 18,
+            "decimals": 6,
             "name": "Avaxtars",
             "symbol": "AVXT",
             "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png"
         }
     ],
-    "timestamp": "2021-12-13T15:33:00+00:00"
+    "timestamp": "2021-12-13T15:39:00+00:00"
 }
