@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 5,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "tokens": [
@@ -188,7 +188,15 @@
             "name": "TaleCraft",
             "symbol": "CRAFT",
             "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
+            "decimals": 18,
+            "name": "Avaxtars",
+            "symbol": "AVXT",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png"
         }
     ],
-    "timestamp": "2021-12-03T14:01:00+00:00"
+    "timestamp": "2021-12-13T15:33:00+00:00"
 }
