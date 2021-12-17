@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 5,
-        "minor": 8,
+        "minor": 9,
         "patch": 1
     },
     "tokens": [
@@ -196,7 +196,15 @@
             "name": "Avaxtars",
             "symbol": "AVXT",
             "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xeE06eDA32Eee4e8A3b64d331Acc9866a51F0AB6e",
+            "decimals": 18,
+            "name": "SlyFox",
+            "symbol": "SLY",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0xeE06eDA32Eee4e8A3b64d331Acc9866a51F0AB6e/logo.png"
         }
     ],
-    "timestamp": "2021-12-13T15:39:00+00:00"
+    "timestamp": "2021-12-17T17:12:00+00:00"
 }
