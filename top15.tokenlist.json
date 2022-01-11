@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 5,
-        "minor": 9,
+        "minor": 10,
         "patch": 1
     },
     "tokens": [
@@ -204,7 +204,15 @@
             "name": "SlyFox",
             "symbol": "SLY",
             "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0xeE06eDA32Eee4e8A3b64d331Acc9866a51F0AB6e/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
+            "decimals": 18,
+            "name": "RaceX",
+            "symbol": "RaceX",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/tokens/main/assets/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png"
         }
     ],
-    "timestamp": "2021-12-17T17:12:00+00:00"
+    "timestamp": "2021-01-12T00:16:00+00:00"
 }
