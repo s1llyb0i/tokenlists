@@ -4,10 +4,10 @@
     "version": {
       "major": 0,
       "minor": 1,
-      "patch": 1
+      "patch": 2
     },
     "keywords": [],
-    "timestamp": "2022-01-21T21:20:00+00:00",
+    "timestamp": "2022-01-21T21:24:00+00:00",
     "tokens": [
         {
             "chainId": 11111,
@@ -23,7 +23,7 @@
             "decimals": 18,
             "name": "Wrapped WAGMI",
             "symbol": "WWAGMI",
-            "logoURI": "https://e1.pngegg.com/pngimages/367/955/png-clipart-simply-styled-icon-set-731-icons-free-word-mac-blue-w-thumbnail.png"
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/subnet-evm/1d49ceba2d36dd71405eaa466c64fca8e83b996c/imgs/wagmi.png"
         }
     ]
   }
