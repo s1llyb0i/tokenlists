@@ -24,6 +24,14 @@
             "name": "Wrapped WAGMI",
             "symbol": "WWAGMI",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/subnet-evm/1d49ceba2d36dd71405eaa466c64fca8e83b996c/imgs/wagmi.png"
+        },
+        {
+            "chainId": 11111,
+            "address": "0x0Dc54cD9a3DA5D2884A577bF9647f7BC6784555c",
+            "decimals": 18,
+            "name": "NGMI",
+            "symbol": "NGMI",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/subnet-evm/1d49ceba2d36dd71405eaa466c64fca8e83b996c/imgs/wagmi.png"
         }
     ]
   }
