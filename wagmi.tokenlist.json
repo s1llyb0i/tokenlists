@@ -1,0 +1,29 @@
+{
+    "name": "WAGMI Token List",
+    "logoURI": "https://i.imgur.com/tt0vG2N.png",
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 1
+    },
+    "keywords": [],
+    "timestamp": "2022-01-21T21:20:00+00:00",
+    "tokens": [
+        {
+            "chainId": 11111,
+            "address": "0xBFf9c6C2608A8764f8C6A29DCF655a1901cB3e02",
+            "decimals": 18,
+            "name": "YetiSwap",
+            "symbol": "YTS",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png"
+        },
+        {
+            "chainId": 11111,
+            "address": "0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4",
+            "decimals": 18,
+            "name": "Wrapped WAGMI",
+            "symbol": "WWAGMI",
+            "logoURI": "https://e1.pngegg.com/pngimages/367/955/png-clipart-simply-styled-icon-set-731-icons-free-word-mac-blue-w-thumbnail.png"
+        }
+    ]
+  }
